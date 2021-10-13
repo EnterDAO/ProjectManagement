@@ -6,13 +6,15 @@
 
 ## Overview
 
-This repository contains PM related information and aims to be a single place where EnterDAO development and progress is tracked.
+This repository contains Project Management related information and aims to provide visibility on the progress for the growing EnterDAO community.
 
 For more information on EnterDao you can read the [Whitepaper](https://medium.com/enterdao/enterdao-whitepaper-27447f7400c8).
 
 ## Roadmap 
 
-TODO
+- MetaPass - end of October / mid November 2021
+- LandWorks - end of November / beginning of December 2021
+- MetePortal - December 2021
 
 ## Products
 
@@ -22,4 +24,4 @@ TODO
 
 ## How to get involved
 
-TODO
+We're always open to collaborate with our community. If you want to get involved in the research & development, or you can assist in any other way, feel free to reach out in our [Discord server](https://discord.io/EnterDAO).
