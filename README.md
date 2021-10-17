@@ -18,9 +18,9 @@ For more information on EnterDao you can read the [Whitepaper](https://medium.co
 
 ## Products
 
-- [MetaPass](./MetaPass)
-- [MetaPortal](./MetaPortal)
-- [LandWorks](./LandWorks)
+- MetaPass
+- MetaPortal
+- LandWorks
 
 ## How to get involved
 
