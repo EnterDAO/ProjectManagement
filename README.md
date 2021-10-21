@@ -14,7 +14,7 @@ For more information on EnterDao you can read the [Whitepaper](https://medium.co
 
 - MetaPass - end of October / mid November 2021
 - LandWorks - mid December 2021
-- MetePortal - December 2021
+- MetаPortal - December 2021
 
 ## Products
 
