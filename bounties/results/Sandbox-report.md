@@ -2,7 +2,6 @@
 
 By Ben Alistair
 
-## Overview
 The Sandbox is a virtual world where users can create, own, and monetize their
 own metaverse experience built on the Ethereum blockchain. Sandbox gives users tools
 to create their own custom voxel models, trade in-game assets, and even build and
@@ -27,7 +26,6 @@ several factors like proximity to popular areas, locations near large partners' 
 the size of the land itself. Once live, this will enable owners of the land to authorize
 renters (other addresses) to deploy scenes themselves.
 
-## Network
 Sandbox is based on the Ethereum blockchain although they are currently
 working on integrating Polygon as well. $SAND is the native ERC-20 token and serves
 as the utility token of the Sandbox ecosystem as well as a governance token. $SAND
