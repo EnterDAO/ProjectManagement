@@ -42,3 +42,8 @@ Depending on the findings in the report, follow-up work can be initiated for int
 - 900 ENTR total **per** Metaverse with Bonus section completed
 
 (**Example**: IF both CryptoVoxels and Sandbox are fully completed with the Bonus requirements, then you'll get 1800 ENTR)
+
+## Update
+
+Report for the following metaverses has been submitted:
+- [Sandbox](../results/Sandbox-report.md)
