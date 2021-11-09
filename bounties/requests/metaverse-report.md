@@ -1,4 +1,4 @@
-# Metaverse Report
+# Metaverse Report Bounty
 
 ## Overview
 
