@@ -47,4 +47,4 @@ Depending on the findings in the report, follow-up work can be initiated for int
 
 Report for the following metaverses has been submitted:
 - [Sandbox](../results/Sandbox-report.md)
-- [CryptoVoxels] (https://github.com/EnterDAO/ProjectManagement/blob/main/bounties/results/CryptoVoxels-report.md)
+- [CryptoVoxels](https://github.com/EnterDAO/ProjectManagement/blob/main/bounties/results/CryptoVoxels-report.md)
