@@ -18,7 +18,7 @@ For more information on EnterDao you can read the [Whitepaper](https://medium.co
 
 ## Products
 
-- Sharded Minds
+- ShardedMinds
 - MetaPortal
 - LandWorks
 
