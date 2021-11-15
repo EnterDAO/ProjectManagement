@@ -14,7 +14,7 @@ For more information on EnterDao you can read the [Whitepaper](https://medium.co
 
 - ShardedMinds - December 2021
 - LandWorks - late December 2021 / mid Jan 2022
-- MetаPortal - Jan 2021
+- MetаPortal - Jan 2022
 
 ## Products
 
