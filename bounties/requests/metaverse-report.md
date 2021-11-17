@@ -53,3 +53,4 @@ Reports for the following metaverses have been submitted:
 - [Sandbox](../results/Sandbox-report.md)
 - [CryptoVoxels](https://github.com/EnterDAO/ProjectManagement/blob/main/bounties/results/CryptoVoxels-report.md)
 - [Somnium](https://github.com/EnterDAO/ProjectManagement/blob/main/bounties/results/SomniumSpace-report.md) 
+- Aavegotchi - _in review_
