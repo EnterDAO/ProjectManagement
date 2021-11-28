@@ -51,5 +51,6 @@ Depending on the findings in the report, follow-up work can be initiated for int
 
 Reports for the following metaverses have been submitted:
 - [Sandbox](../results/Sandbox-report.md)
-- [CryptoVoxels](https://github.com/EnterDAO/ProjectManagement/blob/main/bounties/results/CryptoVoxels-report.md)
-- Somnium - _link to be added soon_
+- [CryptoVoxels](../results/CryptoVoxels-report.md)
+- [Somnium Spaces](../results/SomniumSpace-report.md)
+- [Gotchiverse](../results/Gotchiverse_report.md)
