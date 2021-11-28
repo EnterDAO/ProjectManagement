@@ -12,13 +12,13 @@ For more information on EnterDao you can read the [Whitepaper](https://medium.co
 
 ## Roadmap 
 
-- MetaPass - end of October / mid November 2021
-- LandWorks - mid December 2021
-- MetаPortal - December 2021
+- ShardedMinds - December 2021
+- LandWorks - late December 2021 / mid Jan 2022
+- MetаPortal - Jan 2022
 
 ## Products
 
-- MetaPass
+- ShardedMinds
 - MetaPortal
 - LandWorks
 

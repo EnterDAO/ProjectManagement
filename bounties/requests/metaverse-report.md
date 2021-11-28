@@ -31,8 +31,7 @@ Providing the described information will allow us to:
 
 The following metaverses are yet to be researched:
 
-- Dvision Network - $DVI
-- Bloktopia
+- Dvision Network - $DVI - _in progress by @kibura_
 - Netvrk
 - VictoriaVRy
 - Wilder World
