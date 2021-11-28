@@ -1,5 +1,8 @@
 # [LandWorks] Metaverse Report Bounty
 
+**Metaverse Reports have been suspended for the time being. Thank you for everyone participating! We got a number of
+metaverses that DAO can work on integrating into LandWorks**  
+
 ## Overview
 
 The following document outlines the requirements and expected delivery for producing a report on one or multiple metaverses.
