@@ -13,7 +13,7 @@ For more information on EnterDao you can read the [Whitepaper](https://medium.co
 ## Roadmap 
 
 - ShardedMinds - December 2021
-- LandWorks - late December 2021 / mid Jan 2022
+- LandWorks - mid Jan 2022 - [checklist](./checklist/landworks.md)
 - MetаPortal - Jan 2022
 
 ## Products
