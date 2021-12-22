@@ -8,7 +8,7 @@ The following page contains the high-level tasks that must be completed before L
   - [X] Tokenomics
   - [X] Deploy on Rinkeby
   - [ ] Deploy on Mainnet
-- [ ] LandWorks NFt
+- [ ] LandWorks NFT
   - [X] Metadata
   - [ ] Design
 - [X] Yield Farming Contracts
